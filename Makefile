@@ -10,4 +10,4 @@ build:
 clean:
 	@rm -f todo
 
-.PHONY: run test build
+.PHONY: run test build clean
